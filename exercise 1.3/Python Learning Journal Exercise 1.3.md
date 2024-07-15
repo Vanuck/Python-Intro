@@ -15,15 +15,19 @@
 destination=input(Where do you want to travel?")
 
 if destination == "Mexico":
+
 print("Have a great time in Mexico!")
 
 elif destination == "Bermuda":
+
 print("Have a great time in Bermuda!")
 
 elif destination == "London":
+
 print("Have a great time in London!")
 
 else:
+
 print("Oops, that destination is not currently available.”)
 
 ### 2. Imagine you’re at a job interview for a Python developer role. The interviewer says “Explain logical operators in Python”. Draft how you would respond.
