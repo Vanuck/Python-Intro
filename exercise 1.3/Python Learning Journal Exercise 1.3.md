@@ -16,10 +16,13 @@ destination=input(Where do you want to travel?")
 
 if destination == "Mexico":
 print("Have a great time in Mexico!")
+
 elif destination == "Bermuda":
 print("Have a great time in Bermuda!")
+
 elif destination == "London":
 print("Have a great time in London!")
+
 else:
 print("Oops, that destination is not currently available.”)
 
